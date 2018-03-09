@@ -2,7 +2,7 @@
 
 return [
 
-	'welcome' 			=> 'Welcome to TutaPOS - TUTA Point of Sale.',
+	'welcome' 			=> 'Welcome to My Shopping Website - Sale System.',
 	'statistics' 		=> 'Statistics',
 	'total_employees' 	=> 'Total Employees',
 	'total_customers' 	=> 'Total Customers',

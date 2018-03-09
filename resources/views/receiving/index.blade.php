@@ -79,11 +79,11 @@
 
                                 <div class="col-md-7">
                                     <div class="form-group">
-                                        <label for="total" class="col-sm-5 control-label">{{trans('receiving.amount_tendered')}}</label>
+                                        <!-- <label for="total" class="col-sm-5 control-label">{{trans('receiving.amount_tendered')}}</label> -->
                                         <div class="col-sm-7">
                                             <div class="input-group">
-                                                <div class="input-group-addon">$</div>
-                                                <input type="text" class="form-control" id="amount_tendered"/>
+                                                <!-- <div class="input-group-addon">Rp.</div>
+                                                <input type="text" class="form-control" id="amount_tendered"/> -->
                                             </div>
                                         </div>
                                     </div>

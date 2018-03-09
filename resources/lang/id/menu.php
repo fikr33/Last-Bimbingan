@@ -4,7 +4,7 @@ return [
 
 	'dashboard' 			=> 'Dashboard',
 	'customers' 			=> 'Pelanggan',
-	'employees'				=> 'Pengunjung',
+	'employees'				=> 'Pegawai',
 	'items' 				=> 'Barang',
 	'item_kits' 			=> 'Barang Paket',
 	'suppliers' 			=> 'Supplier',

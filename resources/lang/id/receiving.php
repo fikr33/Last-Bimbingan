@@ -7,7 +7,7 @@ return [
 	'invoice' => 'Faktur',
 	'employee' => 'Pegawai',
 	'payment_type' => 'Jenis Pembayaran',
-	'supplier' => 'Pemasok',
+	'supplier' => 'Supplier',
 	'item_id' => 'ID Barang',
 	'item_name' => 'Nama Barang',
 	'cost' => 'Harga Beli',
